@@ -1,0 +1,19 @@
+{
+    "source_name":"European Environment Agency",
+    "source_dataset":"Nationally designated areas for public access",
+    "source_name_value":"cdda",
+    "license_type":"CC-BY (equivalent)",
+    "license_text":"EEA standard re-use policy: unless otherwise indicated, re-use of content on the EEA website for commercial or non-commercial purposes is permitted free of charge, provided that the source is acknowledged ( ). Copyrighthttp://www.eea.europa.eu/legal/copyright holder: European Environment Agency (EEA); Estonian Environmental Register 01.01.2021; Land Burgenland, Land Kärnten, Land Niederösterreich, Land Oberösterreich, Land Salzburg, Land Steiermark, Land Tirol, Land Vorarlberg, Stadt Wien aggregated by Austrian Environment Agency.",
+    "countries":"Albania, Austria, Belgium, Bulgaria, Bosnia and Herzegozina, Switzerland, Cyprus, Czechia, Germany, Denmark, Spain, Estonia, Finland, France, Greece, Croatia, Hungary, Ireland, Iceland, Italy, Liechtenstein, Lithuania, Luxembourg, Latvia, North Macedonia, Malta, Montenegro, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Sweden, Kosovo",
+    "url_license":"https://sdi.eea.europa.eu/catalogue/datahub/api/records/ef77dd7b-e5d0-4b93-81e1-f721b91ec9fe/formatters/xsl-view?output=pdf&language=eng&approved=true",
+    "url_license_archived":"https://web.archive.org/web/20240217063347/https://sdi.eea.europa.eu/catalogue/datahub/api/records/ef77dd7b-e5d0-4b93-81e1-f721b91ec9fe/formatters/xsl-view?output=pdf&language=eng&approved=true",
+    "url_home":"https://www.eea.europa.eu",
+    "url_home_archived":"https://web.archive.org/web/20240317195006/https://www.eea.europa.eu/en",
+    "url_download_page":"https://www.eea.europa.eu/en/datahub/datahubitem-view/f60cec02-6494-4d08-b12d-17a37012cb28?activeAccordion=1086849",
+    "url_download_page_archived":"https://web.archive.org/web/20240317194904/https://www.eea.europa.eu/en/datahub/datahubitem-view/f60cec02-6494-4d08-b12d-17a37012cb28?activeAccordion=1086849",
+    "url_download":"https://sdi.eea.europa.eu/data/ef77dd7b-e5d0-4b93-81e1-f721b91ec9fe",
+    "url_download_archived":"https://web.archive.org/web/20240317194917/https://sdi.eea.europa.eu/data/ef77dd7b-e5d0-4b93-81e1-f721b91ec9fe",
+    "date_accessed":"2024-03-11",
+    "note":"Direct import of source data, slight modifications to attributes. No modification, merging, and node adjustments to geometries.",
+    "description":"Aggregated dataset of protected areas in the European Union."
+}
